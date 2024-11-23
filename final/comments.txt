@@ -1,0 +1,1 @@
+bank8.c - initial deposit at creating account doesn't recorded in the history of transaction.
