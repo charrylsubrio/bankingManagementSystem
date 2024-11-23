@@ -1,1 +1,8 @@
-bank8.c - initial deposit at creating account doesn't recorded in the history of transaction.
+1. bank8.c - initial deposit at creating account doesn't recorded in the history of transaction.
+	i. When the code in the deposit function copied to the initial balance, loggedClient & deposit variables are undeclared.
+	ii. Possible solution: make it global variables.
+	iii. loggedClient is function pointer parameter for the logged in client.
+	iv. Substitute variables
+	v. It is now recorded but with zero amount, it should be the initial deposit.
+	vi. Possible solution: instead of deposit, make it initial balance.
+	vii. Fixed and version update to bank9.c
