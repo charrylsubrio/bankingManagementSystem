@@ -1,0 +1,14 @@
+13
+3872,Ismael Lon Lomarda,09083041859,Lomarda27,500.00
+7303,John Carlo Villarta,09456781239,Villartapass,500.00
+1947,John Michael Cajes,09458234719,Cajespass,500.00
+4813,Jazfer Maestrado,09567823457,Maestradopass,500.00
+5629,Bernadeth Baguhin,09457823418,Baguhinpass,700.00
+3475,Jasmine Dumangas,09234267811,Dumangaspass,800.00
+2068,James Roman Pabi,09783451289,Pabipass,1000.00
+4371,Kristoff Stephen Balaba,09234875427,Balabapass,1500.00
+8253,Christian James Chatto,09872351547,Chattopass,2000.00
+6892,Jess Kenneth Omac,09984376512,Omacpass,2500.00
+4589,Francis John Jamito,09348922444,Jamitopass,3000.00
+9546,Jan Marti Tagalog,09346782145,Tagalogpass,3000.00
+3104,Lark Martin Tatad,09894571543,Tatadpass,5000.00
